@@ -77,11 +77,8 @@
 		F74073751A8EEBCE003F52EE /* stanford-calculator */ = {
 			isa = PBXGroup;
 			children = (
-				F74073781A8EEBCE003F52EE /* AppDelegate.swift */,
 				F740737A1A8EEBCE003F52EE /* ViewController.swift */,
 				F740737C1A8EEBCE003F52EE /* Main.storyboard */,
-				F740737F1A8EEBCE003F52EE /* Images.xcassets */,
-				F74073811A8EEBCE003F52EE /* LaunchScreen.xib */,
 				F74073761A8EEBCE003F52EE /* Supporting Files */,
 			);
 			path = "stanford-calculator";
@@ -90,6 +87,9 @@
 		F74073761A8EEBCE003F52EE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F74073811A8EEBCE003F52EE /* LaunchScreen.xib */,
+				F74073781A8EEBCE003F52EE /* AppDelegate.swift */,
+				F740737F1A8EEBCE003F52EE /* Images.xcassets */,
 				F74073771A8EEBCE003F52EE /* Info.plist */,
 			);
 			name = "Supporting Files";
